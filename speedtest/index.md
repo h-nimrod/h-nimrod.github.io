@@ -6,9 +6,9 @@
 
 ---
 
-![](img/st1.jpg)
-![](img/st2.jpg)
-![](img/st3.jpg)
+||||
+|---|---|---|
+|![](img/st1.jpg)|![](img/st2.jpg)|![](img/st3.jpg)|
 
 
 With the Speed Test app, you can easily test the speed of your Internet connection.
