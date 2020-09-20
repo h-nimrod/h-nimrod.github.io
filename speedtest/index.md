@@ -6,14 +6,15 @@
 
 ---
 
-||||
-|---|---|---|
-|![](img/st1.jpg)|![](img/st2.jpg)|![](img/st3.jpg)|
-
 
 With the Speed Test app, you can easily test the speed of your Internet connection.
 It automatically searches for the best server and measures the speed and ping latency.
 The measurement results are displayed as a chart, so you can also check the results visually.
 You can find out your rank and average.
+
+
+||||
+|---|---|---|
+|<img src="img/st1.jpg" width="200">|<img src="img/st2.jpg" width="200">|<img src="img/st3.jpg" width="200">|
 
 
