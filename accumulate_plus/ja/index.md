@@ -5,18 +5,19 @@
 
 ---
 
-"Accumulate+" is the perfect app for those looking to steadily grow their assets through regular investment plans. Designed as a powerful compound interest calculator, it supports the comprehensive planning and execution of your investment strategy. By simply entering the principal amount, annual interest rate, regular contribution amount (monthly or annually), and the investment period, you can instantly visualize the long-term growth of your investments. With new features such as withdrawal simulation and the ability to display detailed annual projections including age and calendar year, you can craft an even more detailed financial plan.
+積立プラスは、積み立て投資を通じて資産を着実に増やしたい方や、新NISAやiDeCoなどの税制優遇制度を最大限活用したい方に最適なアプリです。
+シンプルながらも強力な複利計算シミュレーターで、将来の資産成長を予測し、投資計画の立案から実行までを総合的にサポートします。
+元本、年利率、積立額（月間または年間）、および積立期間を入力することで、長期的な資産運用の成果を明確に把握できます。
+取り崩しシミュレーションと年齢・西暦を含む年別表示機能を活用し、より詳細な資産運用計画を立てることができます。
 
-### Key Features:
+### 【主な特長】
 
-- Optimized for Regular Investing: Tailored features for easy simulation of regular investment strategies.
-- Intuitive Interface: A clear and simple user interface that anyone can use effortlessly.
-- Compound Interest Simulation: Instantly see the future growth of your assets and experience the power of long-term investing.
-- Withdrawal Simulation: Plan for retirement by managing the entire lifecycle of your investment, including withdrawal strategies.
-- Detailed Annual Projections: Track the progress of your investments with age and calendar year, bringing clarity to your future financial plans.
-- Customizable: Set up flexible scenarios tailored to your investment goals for personalized planning.
-- Educational Resources: Learn the basics of regular investing, including tips and strategies for effective asset growth.
-
+- 積み立て投資特化: 新NISAやiDeCoを含む、積み立て投資に最適化されたシミュレーション機能
+- 直感的操作: 誰でも簡単に利用できるクリアなユーザーインターフェイス
+- 複利計算シミュレーション: 将来の資産成長を瞬時に確認し、長期投資のパワーを実感
+- 取り崩しシミュレーション: 退職後の資産運用計画も含め、ライフプラン全体の管理が可能
+- 年別詳細表示: 投資成果を年齢や西暦で確認し、未来の資産計画を具体化
+- カスタマイズ可能: 自分の投資目標に合わせたシナリオ設定で、柔軟な計画策定
 
 ### ScreenShots:
 
