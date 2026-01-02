@@ -1,4 +1,10 @@
-# Accumulate+: 
+---
+layout: default
+title: Accumulate+ - Compound Interest Calculator
+description: Compound interest calculator for regular investment planning. Visualize long-term growth of your investments.
+---
+
+# Accumulate+ 
 
 
 <a href='https://play.google.com/store/apps/details?id=com.hnimrod.accumulate_plus&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
@@ -20,9 +26,15 @@
 
 ### ScreenShots:
 
-![1](fig/1.png)
-![2](fig/2.png)
-![3](fig/3.png)
-![4](fig/4.png)
-![5](fig/5.png)
+<img src="fig/1.png" alt="Screenshot 1" loading="lazy">
+<img src="fig/2.png" alt="Screenshot 2" loading="lazy">
+<img src="fig/3.png" alt="Screenshot 3" loading="lazy">
+<img src="fig/4.png" alt="Screenshot 4" loading="lazy">
+<img src="fig/5.png" alt="Screenshot 5" loading="lazy">
+
+---
+
+<p style="text-align: center; color: #666; font-size: 0.9em;">
+<a href="/accumulate_plus/ja/">日本語</a> | <a href="/">Home</a>
+</p>
 

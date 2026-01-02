@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mortgage/Loan Calculator
+description: Calculate monthly payments, total interest, and compare loan scenarios. Available on iOS and Android.
+---
+
 # Mortgage/Loan Calculator
 
 ![feature](fig/feature.png)
@@ -44,8 +50,14 @@ Whether you're planning to buy a house, refinance an existing loan, or simply ma
 
 ### ScreenShots:
 
-![1](fig/1.png)
-![2](fig/2.png)
-![3](fig/3.png)
-![4](fig/4.png)
-![5](fig/5.png)
+<img src="fig/1.png" alt="Screenshot 1" loading="lazy">
+<img src="fig/2.png" alt="Screenshot 2" loading="lazy">
+<img src="fig/3.png" alt="Screenshot 3" loading="lazy">
+<img src="fig/4.png" alt="Screenshot 4" loading="lazy">
+<img src="fig/5.png" alt="Screenshot 5" loading="lazy">
+
+---
+
+<p style="text-align: center; color: #666; font-size: 0.9em;">
+<a href="/loan/ja/">日本語</a> | <a href="/">Home</a>
+</p>
