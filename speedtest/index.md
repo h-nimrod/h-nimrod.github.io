@@ -1,3 +1,9 @@
+---
+layout: default
+title: Network Speed Test
+description: Test your Internet connection speed easily. Measures download, upload speed and ping latency.
+---
+
 # Network Speed Test
 
 
@@ -15,6 +21,10 @@ You can find out your rank and average.
 
 ||||
 |---|---|---|
-|<img src="img/st1.jpg" width="200">|<img src="img/st2.jpg" width="200">|<img src="img/st3.jpg" width="200">|
+|<img src="img/st1.jpg" width="200" loading="lazy" alt="Screenshot 1">|<img src="img/st2.jpg" width="200" loading="lazy" alt="Screenshot 2">|<img src="img/st3.jpg" width="200" loading="lazy" alt="Screenshot 3">|
 
+---
 
+<p style="text-align: center; color: #666; font-size: 0.9em;">
+<a href="/">Home</a>
+</p>

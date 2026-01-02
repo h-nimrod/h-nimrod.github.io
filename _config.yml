@@ -1,3 +1,19 @@
 theme: jekyll-theme-slate
 show_downloads: false
+
+# Site settings
 title: "nimrod project"
+description: "Mobile applications for finance, productivity, and utilities. Available on iOS and Android."
+url: "https://h-nimrod.github.io"
+baseurl: ""
+
+# Author
+author:
+  name: "h-nimrod"
+
+# SEO
+lang: en
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
