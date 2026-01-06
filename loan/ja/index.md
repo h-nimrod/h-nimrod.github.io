@@ -11,7 +11,7 @@ lang: ja
 
 |||
 |---|---|
-|<a href="https://apps.apple.com/jp/app/mortgage-loan-calculator/id6739606505"><img src="../fig/appstore.png" alt="Download on the App Store"></a>|<a href='https://play.google.com/store/apps/details?id=com.hnimrod.loancalc&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>|
+|<a href="https://apps.apple.com/jp/app/mortgage-loan-calculator/id6739606505"><img src="../fig/appstore.png" alt="Download on the App Store" height="60"></a>|<a href='https://play.google.com/store/apps/details?id=com.hnimrod.loancalc&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="60"/></a>|
 
 ---
 

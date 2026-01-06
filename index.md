@@ -21,7 +21,8 @@ Calculate your monthly payments, total interest, and compare loan scenarios with
 - Loan comparison tool
 - Available on **iOS** and **Android**
 
-[Learn more](/loan/) | [App Store](https://apps.apple.com/jp/app/mortgage-loan-calculator/id6739606505) | [Google Play](https://play.google.com/store/apps/details?id=com.hnimrod.loancalc)
+[Learn more](/loan/) <br>
+<a href="https://apps.apple.com/jp/app/mortgage-loan-calculator/id6739606505"><img src="loan/fig/appstore.png" alt="Download on the App Store" height="40"></a> <a href="https://play.google.com/store/apps/details?id=com.hnimrod.loancalc"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
 
 ---
 
@@ -32,9 +33,10 @@ Compound interest calculator for regular investment planning. Visualize long-ter
 - Compound interest simulation
 - Withdrawal simulation for retirement planning
 - Detailed annual projections with age and calendar year
-- Available on **Android**
+- Available on **iOS** and **Android**
 
-[Learn more](/accumulate_plus/) | [Google Play](https://play.google.com/store/apps/details?id=com.hnimrod.accumulate_plus)
+[Learn more](/accumulate_plus/) <br>
+<a href="https://apps.apple.com/us/app/accumulate-compound-interest/id6752311892"><img src="loan/fig/appstore.png" alt="Download on the App Store" height="40"></a> <a href="https://play.google.com/store/apps/details?id=com.hnimrod.accumulate_plus"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
 
 ---
 
@@ -48,7 +50,8 @@ Test your Internet connection speed easily. Automatically finds the best server 
 - Ranking and average comparison
 - Available on **Android**
 
-[Learn more](/speedtest/) | [Google Play](https://play.google.com/store/apps/details?id=com.hnimrod.speedtest)
+[Learn more](/speedtest/) <br>
+<a href="https://play.google.com/store/apps/details?id=com.hnimrod.speedtest"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
 
 ---
 
@@ -61,7 +64,8 @@ Translate text into 10 languages with text-to-speech support.
 - Simple and intuitive interface
 - Available on **Android**
 
-[Learn more](/translator/) | [Google Play](https://play.google.com/store/apps/details?id=com.hnimrod.translator)
+[Learn more](/translator/) <br>
+<a href="https://play.google.com/store/apps/details?id=com.hnimrod.translator"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
 
 ---
 
@@ -73,7 +77,8 @@ A simple stopwatch with 0.001 second precision. Can also be used as a countdown 
 - Countdown timer mode
 - Available on **Android**
 
-[Learn more](/stopwatch/) | [Google Play](https://play.google.com/store/apps/details?id=net.bj_taro.simpletimer)
+[Learn more](/stopwatch/) <br>
+<a href="https://play.google.com/store/apps/details?id=net.bj_taro.simpletimer"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
 
 ---
 
