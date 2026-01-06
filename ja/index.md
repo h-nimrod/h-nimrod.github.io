@@ -22,7 +22,8 @@ nimrod project へようこそ。金融、生産性、日常のユーティリ�
 - ローン比較ツール
 - **iOS** と **Android** で利用可能
 
-[詳細](/loan/ja/) | [App Store](https://apps.apple.com/jp/app/mortgage-loan-calculator/id6739606505) | [Google Play](https://play.google.com/store/apps/details?id=com.hnimrod.loancalc)
+[詳細](/loan/ja/) <br>
+<a href="https://apps.apple.com/jp/app/mortgage-loan-calculator/id6739606505"><img src="../loan/fig/appstore.png" alt="Download on the App Store" height="40"></a> <a href="https://play.google.com/store/apps/details?id=com.hnimrod.loancalc"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
 
 ---
 
@@ -33,9 +34,10 @@ nimrod project へようこそ。金融、生産性、日常のユーティリ�
 - 複利シミュレーション
 - 老後の引き出しシミュレーション
 - 年齢・暦年付きの詳細な年次予測
-- **Android** で利用可能
+- **iOS** と **Android** で利用可能
 
-[詳細](/accumulate_plus/ja/) | [Google Play](https://play.google.com/store/apps/details?id=com.hnimrod.accumulate_plus)
+[詳細](/accumulate_plus/ja/) <br>
+<a href="https://apps.apple.com/jp/app/%E7%A9%8D%E7%AB%8B%E3%83%97%E3%83%A9%E3%82%B9-%E8%A4%87%E5%88%A9%E8%A8%88%E7%AE%97-%E6%8A%95%E8%B3%87%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC/id6752311892"><img src="../loan/fig/appstore.png" alt="Download on the App Store" height="40"></a> <a href="https://play.google.com/store/apps/details?id=com.hnimrod.accumulate_plus"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
 
 ---
 
@@ -49,7 +51,8 @@ nimrod project へようこそ。金融、生産性、日常のユーティリ�
 - ランキングと平均値の比較
 - **Android** で利用可能
 
-[詳細](/speedtest/) | [Google Play](https://play.google.com/store/apps/details?id=com.hnimrod.speedtest)
+[詳細](/speedtest/) <br>
+<a href="https://play.google.com/store/apps/details?id=com.hnimrod.speedtest"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
 
 ---
 
@@ -62,7 +65,8 @@ nimrod project へようこそ。金融、生産性、日常のユーティリ�
 - シンプルで直感的なインターフェース
 - **Android** で利用可能
 
-[詳細](/translator/) | [Google Play](https://play.google.com/store/apps/details?id=com.hnimrod.translator)
+[詳細](/translator/) <br>
+<a href="https://play.google.com/store/apps/details?id=com.hnimrod.translator"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
 
 ---
 
@@ -74,7 +78,8 @@ nimrod project へようこそ。金融、生産性、日常のユーティリ�
 - カウントダウンタイマーモード
 - **Android** で利用可能
 
-[詳細](/stopwatch/) | [Google Play](https://play.google.com/store/apps/details?id=net.bj_taro.simpletimer)
+[詳細](/stopwatch/) <br>
+<a href="https://play.google.com/store/apps/details?id=net.bj_taro.simpletimer"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
 
 ---
 

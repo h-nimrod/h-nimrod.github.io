@@ -6,7 +6,7 @@ description: Translate text into 10 languages with text-to-speech support. Free 
 
 # Simple Translator
 
-<a href='https://play.google.com/store/apps/details?id=com.hnimrod.translator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/ja/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.hnimrod.translator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/ja/badges/static/images/badges/en_badge_web_generic.png' height="60"/></a>
 
 ---
 

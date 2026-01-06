@@ -8,7 +8,7 @@ lang: ja
 # 積立プラス
 
 
-<a href='https://play.google.com/store/apps/details?id=com.hnimrod.accumulate_plus&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<a href="https://apps.apple.com/jp/app/%E7%A9%8D%E7%AB%8B%E3%83%97%E3%83%A9%E3%82%B9-%E8%A4%87%E5%88%A9%E8%A8%88%E7%AE%97-%E6%8A%95%E8%B3%87%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC/id6752311892"><img src="../../loan/fig/appstore.png" alt="Download on the App Store" height="60"></a> <a href='https://play.google.com/store/apps/details?id=com.hnimrod.accumulate_plus&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="60"/></a>
 
 ---
 

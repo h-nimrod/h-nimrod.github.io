@@ -7,7 +7,7 @@ description: Compound interest calculator for regular investment planning. Visua
 # Accumulate+ 
 
 
-<a href='https://play.google.com/store/apps/details?id=com.hnimrod.accumulate_plus&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<a href="https://apps.apple.com/us/app/accumulate-compound-interest/id6752311892"><img src="../loan/fig/appstore.png" alt="Download on the App Store" height="60"></a> <a href='https://play.google.com/store/apps/details?id=com.hnimrod.accumulate_plus&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="60"/></a>
 
 ---
 
