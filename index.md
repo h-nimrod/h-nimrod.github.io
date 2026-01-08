@@ -40,6 +40,21 @@ Compound interest calculator for regular investment planning. Visualize long-ter
 
 ---
 
+### Dripo - Pour-over Coffee Timer
+
+A step-by-step pour-over coffee timer for consistent, delicious results.
+
+- Step-by-step brewing guide (Bloom, Pour, Drip)
+- Standard / Quick modes
+- Auto-calculated amounts based on servings
+- Voice guidance support
+- Available on **Android**
+
+[Learn more](/dripo/) <br>
+<a href="https://play.google.com/store/apps/details?id=com.hnimrod.coffee"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
+
+---
+
 ### Network Speed Test
 
 Test your Internet connection speed easily. Automatically finds the best server and measures speed and ping latency.
