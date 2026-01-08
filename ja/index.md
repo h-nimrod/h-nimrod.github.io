@@ -41,6 +41,21 @@ nimrod project へようこそ。金融、生産性、日常のユーティリ�
 
 ---
 
+### Dripo (ドリポ) - ハンドドリップコーヒータイマー
+
+毎日のコーヒーを「再現性高く」淹れるためのステップ式タイマーアプリ。
+
+- ステップ式ドリップガイド（蒸らし・注湯・落ちきり）
+- 標準モード / 時短モード
+- 人数に合わせた分量の自動計算
+- 音声ガイド機能
+- **Android** で利用可能
+
+[詳細](/dripo/ja/) <br>
+<a href="https://play.google.com/store/apps/details?id=com.hnimrod.coffee"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
+
+---
+
 ### ネットワーク速度テスト
 
 インターネット接続速度を簡単にテスト。最適なサーバーを自動検出し、速度とPing遅延を測定します。
