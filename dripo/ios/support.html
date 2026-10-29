@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<!-- iOS 版 Dripo のサポートページ（公開先: https://h-nimrod.github.io/dripo/ios/support.html）。
+     App Store Connect の Support URL が指す。内容を変えたら ja 版も合わせる。
+     日本語の端末では ja 版へ移る。英語版を見たいときは ?lang=en を付ける -->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Support - Dripo for iPhone and iPad</title>
+  <style>
+    body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 1em; max-width: 48em; line-height: 1.5; }
+    h1 { font-size: 1.5em; }
+    h2 { font-size: 1.2em; margin-top: 2em; border-bottom: 1px solid #ddd; padding-bottom: 0.2em; }
+    h3 { font-size: 1.05em; margin-top: 1.6em; }
+    li { margin-bottom: 0.3em; }
+  </style>
+  <script>
+    var userLang = navigator.language || navigator.userLanguage;
+    if (userLang.startsWith('ja') && window.location.search.indexOf('lang=en') === -1) {
+      window.location.href = '/dripo/ios/ja/support.html';
+    }
+  </script>
+</head>
+<body>
+<h1>Dripo Support</h1>
+
+<p>Dripo is a pour-over coffee timer that walks you through each step of a brew (bloom, pours and drawdown) with a large timer, sounds and a voice guide. This page answers common questions about the iPhone and iPad app and explains how to contact us.</p>
+<ul>
+  <li>Requirements: iPhone or iPad with iOS 17 or later (iPadOS 17 or later)</li>
+  <li>Languages: English, Japanese</li>
+  <li>Price: free (supported by ads)</li>
+</ul>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>I'm not getting notifications</h3>
+<ul>
+  <li>Dripo asks for permission to send notifications the first time you start a brew. If you didn't allow it, open the Settings app, go to Notifications &gt; Dripo, and turn on Allow Notifications.</li>
+  <li>Notifications appear only while Dripo isn't on screen (for example, when your iPhone is locked or you are using another app). While Dripo is open, it uses in-app sounds, vibration and the voice guide instead.</li>
+  <li>If a Focus such as Do Not Disturb is on, notifications may be silenced. Dripo's step notifications are Time Sensitive, so you can let them through by allowing Time Sensitive notifications for Dripo in Settings &gt; Notifications &gt; Dripo.</li>
+  <li>The notification sound follows Dripo's settings: in Japanese with Voice Guide on, the recorded voice prompt plays; otherwise a beep plays when Sound is on. With both off, notifications are silent.</li>
+  <li>No notifications are sent while a brew is paused. When you resume, notifications for the remaining steps are scheduled again.</li>
+</ul>
+
+<h3>What happens when I lock my device or switch to another app?</h3>
+<ul>
+  <li>While a brew is running, the brewing screen keeps your device from locking automatically. This stops when you pause the brew, finish it, or leave the brewing screen.</li>
+  <li>If you lock your device or switch to another app, the in-app sounds, vibration and voice guide stop. Notifications tell you when each step starts and when the brew is complete.</li>
+  <li>On iPhone, a Live Activity on the Lock Screen (and in the Dynamic Island on supported models) shows the current step and the time remaining. After a step changes while Dripo is in the background, it shows the total time remaining and asks you to open the app.</li>
+  <li>Elapsed time is calculated from the clock, so when you return to Dripo the timer continues from the actual elapsed time. If the brew finished while you were away, Dripo saves it to your history and shows the completion screen.</li>
+</ul>
+
+<h3>I closed Dripo from the App Switcher, but the brew didn't stop</h3>
+<p>This is expected. Closing Dripo from the App Switcher doesn't cancel a brew: the scheduled notifications still arrive, and the next time you open Dripo the brew resumes from the actual elapsed time. To stop a brew, open Dripo and tap the &times; button in the top-left corner of the brewing screen.</p>
+
+<h3>The Live Activity doesn't appear</h3>
+<ul>
+  <li>In the Settings app, go to Dripo and make sure Live Activities is turned on.</li>
+  <li>If it doesn't appear on the Lock Screen, also check Settings &gt; Face ID &amp; Passcode (or Touch ID &amp; Passcode) &gt; Allow Access When Locked &gt; Live Activities.</li>
+  <li>The Live Activity starts when you start a brew and ends when the brew is finished or stopped.</li>
+</ul>
+
+<h3>Voice guide and sound settings</h3>
+<p>Tap the gear button in the top-right corner of the Home screen to open Settings.</p>
+<ul>
+  <li><strong>Sound</strong>: beeps when each step starts, a countdown over the last 3 seconds of each step, a sound when the brew is complete, and the notification beep.</li>
+  <li><strong>Voice Guide</strong>: spoken instructions for each step. In Japanese, Dripo plays recorded prompts; in English, it uses your device's text-to-speech voice. While a prompt plays, audio from other apps is lowered for a moment, and music keeps playing.</li>
+  <li><strong>Vibration</strong>: a short vibration when each step starts and a long one when the brew is complete (on iPhone).</li>
+  <li>The speaker button in the top-right corner of the Home, preparation and brewing screens turns Sound and Voice Guide off or on together.</li>
+</ul>
+<p>If you can't hear anything, also check your device's volume.</p>
+
+<h3>Why are there ads? How do I change my ad privacy choices?</h3>
+<ul>
+  <li>Dripo is free, and ads (Google AdMob) help keep it that way. Ads never appear over the timer while you brew.</li>
+  <li>Dripo asks whether you allow tracking (App Tracking Transparency). Dripo works the same whether or not you allow it. You can change your choice at any time in Settings &gt; Privacy &amp; Security &gt; Tracking.</li>
+  <li>In regions where consent is required (such as the European Economic Area, the United Kingdom and Switzerland), you can review or change your consent in Dripo's Settings &gt; Ad Privacy Settings.</li>
+  <li>For details, see the <a href="privacy.html?lang=en">Privacy Policy</a>.</li>
+</ul>
+
+<h3>How do I delete my brew history?</h3>
+<ul>
+  <li>Open Settings (the gear button on the Home screen) and tap History.</li>
+  <li>Tap the trash button on the entry you want to delete, then tap Delete to confirm. Deleted entries can't be restored.</li>
+  <li>There is no option to delete all history at once. To erase all of Dripo's data, delete the app.</li>
+</ul>
+
+<h3>How do I change the app's language?</h3>
+<p>Dripo appears in Japanese when Japanese is chosen for your device (or for Dripo), and in English otherwise. To change the language for Dripo only, go to Settings &gt; Apps &gt; Dripo &gt; Language (on iOS 17, Settings &gt; Dripo &gt; Language). This option appears when more than one language is added in Settings &gt; General &gt; Language &amp; Region.</p>
+
+<h3>Backing up and transferring data</h3>
+<p>Your brew history and settings are stored only on your device. Dripo doesn't offer sync or data export, but your data is included in your device backups (for example iCloud Backup), so restoring a backup to a new device brings it over.</p>
+
+<h2>Contact Us</h2>
+<p>To report a bug or send a request, please email nimrod project at <a href="mailto:h.nimrod.jp@gmail.com">h.nimrod.jp@gmail.com</a>.</p>
+<p>When reporting a bug, it helps if you include:</p>
+<ul>
+  <li>Your device model and iOS version</li>
+  <li>The Dripo version (shown at the bottom of Dripo's Settings)</li>
+  <li>What you did and what happened</li>
+</ul>
+
+<p><a href="privacy.html?lang=en">Privacy Policy</a> · <a href="terms.html?lang=en">Terms of Service</a></p>
+</body>
+</html>
