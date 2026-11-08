@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<!-- Android版Dripoのアカウントの削除の依頼（英語。公開先: https://h-nimrod.github.io/dripo/delete-account.html。Play Consoleのアカウント削除のURL）。
+     端末の言語が日本語なら日本語版（ja/delete-account.html）へ切り替える。?lang=en を付けると英語のまま。
+     内容を変えたら日本語版も合わせる。依頼を受けたときの手順は firebase/README.md の「手動でのアカウント削除」 -->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Delete your account - Dripo (Android)</title>
+  <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 1em; max-width: 48em; line-height: 1.6; } </style>
+  <script>
+    var userLang = navigator.language || navigator.userLanguage;
+    if (userLang.startsWith('ja') && window.location.search.indexOf('lang=en') === -1) {
+      window.location.href = '/dripo/ja/delete-account.html';
+    }
+  </script>
+</head>
+<body>
+<strong>Delete your account - Dripo - Drip Coffee Timer &amp; Guide</strong>
+
+<p>This page explains how to delete your account and the records saved in the cloud for the Android app "Dripo - Drip Coffee Timer &amp; Guide" (the "App"), provided by nimrod project. If you have never signed in to the App with a Google account, you have no account or brew records in the cloud to delete.</p>
+
+<strong>Delete in the App</strong>
+<ol>
+  <li>Open the App and tap Settings.</li>
+  <li>Tap "Sign-in and account".</li>
+  <li>Tap "Delete account" and confirm.</li>
+  <li>To confirm it is you, choose the Google account you signed in with again.</li>
+</ol>
+<p>Your data is deleted immediately and cannot be recovered. Rarely, records sent immediately after deletion from another device that is still signed in, or restore key information that was being created, may remain. We recommend signing out on your other devices before deleting your account; if anything remains, contact us at the email address below and we will delete it.</p>
+
+<strong>Request deletion without the App</strong>
+<p>If you have already uninstalled the App, send an email from the Google account email address you signed in with to <a href="mailto:h.nimrod.jp@gmail.com?subject=Dripo%20account%20deletion%20request">h.nimrod.jp@gmail.com</a> with the subject "Dripo account deletion request". To confirm it is you, we will send a new confirmation email to the email address you used to sign in. We will delete your data within 30 days after receiving your reply to that confirmation email and let you know by email.</p>
+
+<strong>Data that is deleted</strong>
+<ul>
+  <li>Account information (email address, name, profile photo URL and your user ID in the App)</li>
+  <li>Brew records saved in the cloud (including notes, ratings and coffee bean names) and markers for deleted records</li>
+  <li>Restore key information stored on the server, used to keep you signed in after changing devices</li>
+</ul>
+<p>If you delete your account in the App, the account's records and the restore key on that device are also removed (if the key could not be removed, it is removed the next time you open the App).</p>
+
+<strong>Data that is not deleted</strong>
+<ul>
+  <li>Records remaining on your other devices: removed when you uninstall the App on those devices.</li>
+  <li>Copies in Google's backup (Android Auto Backup), such as your settings and selected coffee beans (including bean names you enter): they are not linked to your Dripo account, so deleting your account does not remove them. They may remain after you uninstall the App and follow your Google backup settings.</li>
+  <li>Information collected by Google Analytics for Firebase, Firebase Crashlytics and Google AdMob: it is not linked to your account, so it cannot be deleted individually. It is kept according to the retention described in the <a href="privacy.html?lang=en">privacy policy</a> (for example, 90 days for Crashlytics; Google's data retention policy for AdMob).</li>
+</ul>
+
+<strong>Contact us</strong>
+<p>If you have any questions about deletion, please contact nimrod project at <a href="mailto:h.nimrod.jp@gmail.com">h.nimrod.jp@gmail.com</a>.</p>
+</body>
+</html>

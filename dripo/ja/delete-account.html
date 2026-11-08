@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!-- Android版Dripoのアカウントの削除の依頼（日本語。公開先: https://h-nimrod.github.io/dripo/ja/delete-account.html）。
+     Play Consoleのアカウント削除のURLには英語版（../delete-account.html）を登録する。内容を変えたら英語版も合わせる。
+     依頼を受けたときの手順は firebase/README.md の「手動でのアカウント削除」 -->
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>アカウントの削除 - Dripo（Android版）</title>
+  <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 1em; max-width: 48em; line-height: 1.6; } </style>
+</head>
+<body>
+<strong>アカウントの削除 - Dripo - コーヒードリップガイド</strong>
+
+<p>nimrod projectが提供するAndroid向けアプリ「Dripo - コーヒードリップガイド」（以下「本アプリ」）のアカウントと、クラウドに保存した記録を削除する方法です。本アプリにGoogleアカウントでログインしたことがない場合、削除するアカウントやクラウドの記録はありません。</p>
+
+<strong>本アプリから削除する</strong>
+<ol>
+  <li>本アプリを開き、「設定」をタップします。</li>
+  <li>「ログインとアカウント」をタップします。</li>
+  <li>「アカウントを削除」をタップし、確認のメッセージで「削除する」を選びます。</li>
+  <li>本人確認のため、ログインに使ったGoogleアカウントをもう一度選びます。</li>
+</ol>
+<p>すぐに削除され、元には戻せません。削除の直後に、ログインしたままのほかの端末から送られた記録や、作成の途中だった復元用の鍵の情報が、まれに残ることがあります。削除の前にほかの端末ではログアウトしておくことをおすすめしますが、残っていた場合は下記のメールアドレスにご連絡いただければ削除します。</p>
+
+<strong>本アプリを使わずに削除を依頼する</strong>
+<p>本アプリを削除してしまった場合などは、ログインに使ったGoogleアカウントのメールアドレスから、<a href="mailto:h.nimrod.jp@gmail.com?subject=Dripo%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E5%89%8A%E9%99%A4%E3%81%AE%E4%BE%9D%E9%A0%BC">h.nimrod.jp@gmail.com</a>あてに、件名を「Dripoアカウント削除の依頼」としてメールを送ってください。本人確認のため、ログインに使ったメールアドレスあてに、こちらから新しい確認メールを送ります。その確認メールへの返信を受け取った日から30日以内に削除し、メールでお知らせします。</p>
+
+<strong>削除するデータ</strong>
+<ul>
+  <li>アカウントの情報（メールアドレス、名前、プロフィール画像のURL、本アプリでのユーザーID）</li>
+  <li>クラウドに保存した抽出の記録（メモ・評価・コーヒー豆の名前を含む）と、削除した記録の印</li>
+  <li>機種変更でのログインの引き継ぎに使う、サーバーに保存した復元用の鍵の情報</li>
+</ul>
+<p>本アプリから削除した場合は、その端末に保存していたアカウントの記録と復元用の鍵も消えます（鍵を消せなかったときは、次に本アプリを開いたときに消し直します）。</p>
+
+<strong>削除しないデータ</strong>
+<ul>
+  <li>ほかの端末の中に残っている記録: その端末で本アプリを削除すると消えます。</li>
+  <li>Googleのバックアップ（Androidの自動バックアップ）の中の写し（設定や、選んだコーヒー豆と自分で入力した豆の名前など）: Dripoのアカウントとは結びついていないため、アカウントを削除しても消えません。本アプリを削除しても残ることがあり、Googleのバックアップの設定に従います。</li>
+  <li>Google Analytics for Firebase・Firebase Crashlytics・Google AdMobが収集した情報: アカウントと結びついていないため、個別には削除できません。<a href="privacy.html">プライバシーポリシー</a>の保存期間（Crashlyticsは90日間、AdMobはGoogleのデータ保持ポリシーなど）に従って扱われます。</li>
+</ul>
+
+<strong>お問い合わせ</strong>
+<p>削除についてのご質問は、nimrod project（<a href="mailto:h.nimrod.jp@gmail.com">h.nimrod.jp@gmail.com</a>）までお問い合わせください。</p>
+</body>
+</html>
